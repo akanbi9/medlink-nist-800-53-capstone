@@ -1,6 +1,6 @@
 # medlink-nist-800-53-capstone
 
-# SecureCore 53: NIST SP 800-53 Security Assessment
+## SecureCore 53: NIST SP 800-53 Security Assessment
 
 **Student:** NURAIN ABDULLAH 
 **Role:** Junior GRC and Cybersecurity Analyst  
