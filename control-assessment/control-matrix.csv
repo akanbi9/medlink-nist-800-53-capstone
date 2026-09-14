@@ -1,0 +1,24 @@
+Control ID,Family,Control Purpose,Applicability,Status,Evidence,Finding,Risk Owner,Due Date
+AC-2,AC,Account management,Applicable,Partially Implemented,Directory review,Leavers remain active,IT,2026-10-15
+AC-3,AC,Access enforcement,Applicable,Implemented,Access control policy and user permissions,Access is restricted based on user roles,IT,2026-10-15
+AC-6,AC,Least privilege,Applicable,Partially Implemented,User permission review,Some users have excessive privileges,IT,2026-10-30
+AT-2,AT,Security awareness training,Applicable,Implemented,Training records,Employees receive security awareness training,HR,2026-10-15
+AU-2,AU,Event logging,Applicable,Partially Implemented,Server and application logs,Some systems do not generate sufficient audit logs,IT,2026-10-30
+AU-6,AU,Audit record review,Applicable,Partially Implemented,Log review records,Log reviews are performed inconsistently,IT,2026-11-01
+CM-2,CM,Baseline configuration,Applicable,Partially Implemented,Configuration documents,Some endpoints do not follow the approved baseline,IT,2026-11-15
+CM-6,CM,Configuration settings,Applicable,Implemented,System configuration review,Security settings are configured according to policy,IT,2026-10-30
+IA-2,IA,User identification and authentication,Applicable,Implemented,MFA configuration,Users are required to authenticate before accessing systems,IT,2026-10-15
+IA-5,IA,Authenticator management,Applicable,Partially Implemented,Password policy review,Password requirements are not consistently enforced,IT,2026-10-30
+SC-7,SC,Boundary protection,Applicable,Implemented,Firewall configuration,Network traffic is filtered at the network boundary,IT,2026-10-30
+SC-8,SC,Transmission confidentiality,Applicable,Implemented,TLS configuration review,Sensitive information is encrypted during transmission,IT,2026-11-01
+SI-2,SI,Flaw remediation,Applicable,Partially Implemented,Patch management records,Some systems have outdated software patches,IT,2026-10-30
+SI-4,SI,System monitoring,Applicable,Partially Implemented,Endpoint and cloud logs,Security monitoring does not cover all endpoints,IT,2026-11-15
+CP-9,CP,Information system backup,Applicable,Implemented,Backup records,Local and cloud backups are maintained,IT,2026-10-30
+
+
+
+
+
+
+
+
