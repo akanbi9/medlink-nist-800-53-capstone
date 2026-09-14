@@ -1,1 +1,25 @@
-
+Asset ID,Asset / Service,Owner,Data Type,Criticality,Location,Key Risk
+A-001,Microsoft 365 Tenant,IT Manager,PII / Internal / Confidential,High,Cloud,Account compromise
+A-002,Cloud Identity Service,IT Manager,PII / Internal,High,Cloud,Unauthorized access
+A-003,Customer Portal,IT Manager,PII / Confidential,Critical,Cloud,Data breach
+A-004,HR and Payroll Application,HR Manager,PII / Confidential,Critical,Internal / Cloud,Unauthorized access
+A-005,On-Premises File Server,IT Manager,Confidential / Sensitive Business Data,High,MedLink Office,Data loss
+A-006,Windows Laptops,IT Manager,Internal / PII / Confidential,High,MedLink Office / Remote,Malware or endpoint compromise
+A-007,Windows Desktop Computers,IT Manager,Internal / Confidential,Medium,MedLink Office,Malware or unauthorized access
+A-008,Network Equipment,IT Manager,Internal / Sensitive Business Data,High,MedLink Office,Network compromise
+A-009,Firewall,IT Manager,Internal,High,MedLink Office,Unauthorized network access
+A-010,Local Backup Storage,IT Manager,Confidential / PII / Sensitive Business Data,Critical,MedLink Office,Backup failure or data loss
+A-011,Cloud Backup Service,IT Manager,Confidential / PII / Sensitive Business Data,Critical,Cloud,Data loss or ransomware impact
+A-012,Cloud Email Service,IT Manager,PII / Internal / Confidential,High,Cloud,Phishing or account compromise
+A-013,Internal Network,IT Manager,Internal / Confidential,High,MedLink Office,Lateral movement
+A-014,Remote Access Service,IT Manager,PII / Internal,High,Cloud / Remote,Credential compromise
+A-015,Endpoint Security Service,IT Manager,Internal / Security Data,High,Endpoint / Cloud,Malware infection
+A-016,Application Logs,IT Manager,Internal / Security Data,High,Cloud / Internal,Insufficient monitoring
+A-017,Firewall Logs,IT Manager,Internal / Security Data,High,MedLink Office,Undetected network attacks
+A-018,Endpoint Logs,IT Manager,Internal / Security Data,Medium,Endpoints,Insufficient threat detection
+A-019,Third-Party IT Support,IT Manager,Confidential / Internal,High,Third Party,Excessive vendor access
+A-020,Payroll Vendor,HR Manager,PII / Confidential,High,Third Party,Third-party data exposure
+A-021,Office CCTV System,Management,Security Data,Medium,MedLink Office,Unauthorized physical access
+A-022,Physical Access Control,Management,Security Data,High,MedLink Office,Unauthorized facility access
+A-023,Visitor Management Records,Management,PII / Internal,Medium,MedLink Office,Unauthorized disclosure
+A-024,Customer Data Repository,IT Manager,PII / Confidential,Critical,Cloud,Customer data breach
