@@ -1,0 +1,11 @@
+Evidence ID,Control ID,Evidence Description,Evidence Type,Source,Date Collected,Assessment Method,Finding
+EV-001,AC-2,User directory review,Directory export,IT Department,2026-09-14,Examine,Former employees remain active
+EV-002,AC-2,Account management policy,Policy document,IT Department,2026-09-14,Examine,Account management procedures are documented
+EV-003,AC-2,Interview with IT administrator,Interview notes,IT Department,2026-09-14,Interview,Accounts are disabled manually when employees leave
+EV-004,AC-3,User permissions review,Access control report,IT Department,2026-09-14,Examine,User access is assigned according to roles
+EV-005,AT-2,Security awareness training records,Training records,HR Department,2026-09-14,Examine,Employees receive security awareness training
+EV-006,AU-2,Application and server logs,Log files,IT Department,2026-09-14,Examine,Some systems have incomplete audit logging
+EV-007,IA-2,MFA configuration,MFA settings,IT Department,2026-09-14,Test/Observe,MFA is enabled for user accounts
+EV-008,CM-2,Endpoint configuration baseline,Configuration document,IT Department,2026-09-14,Examine,Some endpoints do not match the approved baseline
+EV-009,SI-2,Patch management records,Patch report,IT Department,2026-09-14,Examine,Some endpoints have outdated patches
+EV-010,CP-9,Backup configuration and records,Backup report,IT Department,2026-09-14,Examine,Local and cloud backups are maintained
