@@ -80,7 +80,49 @@ A situations where an external person/company needs to maintain your system.
 **Authorize → Give limited access → Monitor → Complete work → Revoke access**
 
 
+# Emergency Maintenance Process
 
+## 1. Identify the Emergency
+
+Determine whether the problem requires immediate maintenance
+to prevent serious damage, service disruption, or security risk.
+
+## 2. Notify the IT Manager
+
+The responsible technician must immediately notify the IT manager
+or designated emergency approver.
+
+## 3. Emergency Approval
+
+If normal approval cannot be completed in time, the authorized
+emergency approver may approve the maintenance verbally or
+through an approved communication channel.
+
+## 4. Perform Maintenance
+
+Only authorized personnel may perform the emergency maintenance.
+
+The technician must limit changes to what is necessary to resolve
+the emergency.
+
+## 5. Record the Activity
+
+The technician must document:
+- Reason for emergency maintenance
+- Person who approved it
+- Systems affected
+- Actions performed
+- Start and end time
+- Result
+
+## 6. Post-Maintenance Review
+
+After the emergency has been resolved:
+- Review the changes.
+- Test the affected system.
+- Update documentation.
+- Record lessons learned.
+- Obtain formal approval/documentation if required.
 
 
 
