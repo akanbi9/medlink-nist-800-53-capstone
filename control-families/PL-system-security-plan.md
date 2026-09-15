@@ -165,12 +165,8 @@ The organization's security architecture diagram illustrates:
 - Customer database
 - Remote workers
 - Security monitoring
+Download the Security Architecture Diagram (PNG)
 
-### Diagram
-
-See:
-
-`architecture/security-architecture-diagram.png`
 
 
 
