@@ -149,23 +149,6 @@ Users must not:
 Violations may result in disciplinary action and removal of access.
 
 
-# Security Architecture Diagram Reference
-## this is how the organization's technology is connected.
-The organization's security architecture diagram illustrates:
-
-- Internet connection
-- Firewall
-- Router
-- Switch
-- Employee computers
-- Guest Wi-Fi
-- Server/network area
-- Cloud services
-- Company website
-- Customer database
-- Remote workers
-- Security monitoring
-Download the Security Architecture Diagram (PNG)
 
 
 
