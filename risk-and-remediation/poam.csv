@@ -1,0 +1,13 @@
+Risk ID,Risk Description,Asset/Area,Likelihood,Impact,Risk Level,Risk Owner,Treatment,Status
+R-001,Former employee accounts remain active,User Accounts,4,5,High,IT,Mitigate,Open
+R-002,Some users have excessive permissions,Access Control,3,5,High,IT,Mitigate,Open
+R-003,Some endpoints have outdated security patches,Endpoints,4,4,High,IT,Mitigate,Open
+R-004,Employees may fall for phishing attacks,Users,4,4,High,Security,Mitigate,Open
+R-005,Incomplete logging on some systems,Logging,3,4,High,IT,Mitigate,Open
+R-006,USB devices may introduce malware,Removable Media,3,4,High,IT,Mitigate,Open
+R-007,Backup restoration has not been tested recently,Backups,3,5,High,IT,Mitigate,Open
+R-008,Third-party suppliers may introduce security risks,Supply Chain,3,4,High,Management,Mitigate,Open
+R-009,Remote access may be exposed to unauthorized users,Remote Access,3,5,High,IT,Mitigate,Open
+R-010,Physical access to network equipment may be insufficiently controlled,Physical Security,2,5,Medium,Facilities,Mitigate,Open
+R-011,Security policies may not be reviewed regularly,Governance,3,3,Medium,Management,Mitigate,Open
+R-012,Customer PII may be retained longer than necessary,Privacy,3,5,High,Privacy/IT,Mitigate,Open
